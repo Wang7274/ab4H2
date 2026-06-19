@@ -1,4 +1,10 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "display_name": "TEST_SYNC_project",
+      "manifest_path": "absync.json",
+      "project_id": "e8251259-2df3-482e-8e36-d6ee75611434"
+    }
+  ],
   "schema_version": 1
 }

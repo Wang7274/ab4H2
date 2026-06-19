@@ -1,4 +1,10 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "display_name": "local_default",
+      "manifest_path": "projects/dba8b637-17d5-4b46-a57f-dcf4a71e3800/absync.json",
+      "project_id": "dba8b637-17d5-4b46-a57f-dcf4a71e3800"
+    }
+  ],
   "schema_version": 1
 }

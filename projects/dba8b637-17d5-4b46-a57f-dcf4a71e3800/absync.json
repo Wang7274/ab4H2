@@ -1,0 +1,34 @@
+{
+  "archive_format_version": 1,
+  "latest": {
+    "archive_sha256": "360d530875002a7379054aec6ba60b4c577eee29b26daf100cf288b261050340",
+    "archive_size": 1057,
+    "author": "Wang7274 <ziqian.wang@epfl.ch>",
+    "created_at": "2026-06-19T15:12:48Z",
+    "databases": [
+      "TEST_1_database"
+    ],
+    "dependencies": [
+      {
+        "activity_count": 25412,
+        "database": "ecoinvent-3.11-cutoff",
+        "fingerprint": "dbefd0f1a0c2c89705cb1feb49d40c4455972136ce92f3e45baf4246d0d2d4bd"
+      }
+    ],
+    "ecoinvent_database": "ecoinvent-3.11-cutoff",
+    "ecoinvent_version": "3.11",
+    "message": "Test",
+    "object_key": "objects/local_default__2026-06-19T15-12-48Z__Wang7274__360d530875002a7379054aec6ba60b4c577eee29b26daf100cf288b261050340.tar.gz",
+    "parent_revision_id": null,
+    "revision_id": "local_default__2026-06-19T15-12-48Z__Wang7274__2c2a056c",
+    "snapshot_type": "foreground",
+    "versions": {
+      "activity_browser": "2.11.2",
+      "bw2data": "3.6.6",
+      "bw2io": "0.8.12",
+      "python": "3.11.14"
+    }
+  },
+  "project_id": "dba8b637-17d5-4b46-a57f-dcf4a71e3800",
+  "schema_version": 1
+}

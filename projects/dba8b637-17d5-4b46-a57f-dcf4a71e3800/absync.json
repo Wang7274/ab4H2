@@ -1,12 +1,13 @@
 {
   "archive_format_version": 1,
   "latest": {
-    "archive_sha256": "2673c262b71c93841e2125201e747729bae064da77e83dec659809123e4b83a5",
-    "archive_size": 1093,
+    "archive_sha256": "6a218971ce9f8dfdc15dd89ac4b45917773cf3674f2fcd9ae7cb166e938cfcd8",
+    "archive_size": 1405,
     "author": "Wang7274 <ziqian.wang@epfl.ch>",
-    "created_at": "2026-06-19T15:16:51Z",
+    "created_at": "2026-06-19T15:21:38Z",
     "databases": [
-      "TEST_1_database"
+      "TEST_1_database",
+      "TEST_2"
     ],
     "dependencies": [
       {
@@ -17,10 +18,10 @@
     ],
     "ecoinvent_database": "ecoinvent-3.11-cutoff",
     "ecoinvent_version": "3.11",
-    "message": "Test 2",
-    "object_key": "objects/local_default__2026-06-19T15-16-51Z__Wang7274__2673c262b71c93841e2125201e747729bae064da77e83dec659809123e4b83a5.tar.gz",
-    "parent_revision_id": "local_default__2026-06-19T15-12-48Z__Wang7274__2c2a056c",
-    "revision_id": "local_default__2026-06-19T15-16-51Z__Wang7274__83cc6533",
+    "message": "tEST2",
+    "object_key": "objects/local_default__2026-06-19T15-21-38Z__Wang7274__6a218971ce9f8dfdc15dd89ac4b45917773cf3674f2fcd9ae7cb166e938cfcd8.tar.gz",
+    "parent_revision_id": "local_default__2026-06-19T15-16-51Z__Wang7274__83cc6533",
+    "revision_id": "local_default__2026-06-19T15-21-38Z__Wang7274__e94f6d59",
     "snapshot_type": "foreground",
     "versions": {
       "activity_browser": "2.11.2",

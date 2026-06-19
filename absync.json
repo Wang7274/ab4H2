@@ -1,0 +1,21 @@
+{
+  "archive_format_version": 1,
+  "latest": {
+    "archive_sha256": "36539ab5bf657fead66fbdd3ca6fa4c68dc65241b774152cb3d6c24745fb38b7",
+    "archive_size": 273169236,
+    "author": "Wang7274 <ziqian.wang@epfl.ch>",
+    "created_at": "2026-06-19T13:04:51Z",
+    "message": "TEST",
+    "object_key": "objects/36539ab5bf657fead66fbdd3ca6fa4c68dc65241b774152cb3d6c24745fb38b7.tar.gz",
+    "parent_revision_id": null,
+    "revision_id": "15130771-2f10-488f-9db1-b95b2100f47d",
+    "versions": {
+      "activity_browser": "2.11.2",
+      "bw2data": "3.6.6",
+      "bw2io": "0.8.12",
+      "python": "3.11.14"
+    }
+  },
+  "project_id": "1aea85bc-f3d1-4483-9670-4955f0d7a57b",
+  "schema_version": 1
+}
